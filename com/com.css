@@ -1,0 +1,158 @@
+<STYLE type="text/css">
+<!--
+
+BODY TD {
+  font-size         : 11pt;
+}
+
+TABLE {
+  border-collapse   : collapse;
+} 
+HR{
+  page-break-after: always; 
+}
+
+IMG {
+  border            : none;
+}
+
+UL {
+  line-height       : 1.6em;
+}
+table.news{
+   position : absolute;
+   left		: 450px;
+   top		: 180px;
+   width	: 300px;
+}
+table.news TH {
+  font-size         : 11pt;
+  background        : #ffff77;
+  border            : 1px;
+  padding           : 3px;
+}
+table.news TD {
+  font-size         : 11pt;
+  border            : 1px;
+  padding           : 3px;
+}
+
+SUP{
+ color	: red
+}
+ADDRESS{
+ font-style : normal;
+ }
+
+.maintitle1 {
+  font-size         : 15pt;
+  font-weight       : bold;
+  color		    : #ffffff;
+  background        : #00aa77;
+  padding           : 5px 5px 5px 5px;
+  border-bottom     : 1px solid #ffffff;
+}
+
+.maintitle2 {
+  color		    	: #ffffff;
+  background        : #00aa77;
+  border-bottom     : 1px solid #ffffff;
+  text-align        : right;
+}
+
+.pagetitle {
+  font-size         : 13pt;
+  color		    : #333333;
+  background        : #aaffcc;
+  padding           : 3px 5px 3px 5px;
+}
+
+.tohomelink {
+  text-align        : right;
+  color		    : #333333;
+  background        : #ffccff;
+  padding-right     : 5px;
+}
+
+.maincontents {
+  font-size         : 11pt;
+  padding           : 0 18px 0 18px;
+}
+
+.maincontents IMG {
+  margin            : 6px;
+}
+.printlist TH{
+  font-size         : 7pt;
+  border            : 1px solid #666666;
+  padding           : 4px;
+}
+.printlist TD{
+  font-size         : 7pt;
+  border            : 1px solid #666666;
+  padding           : 4px;
+  vertical-align    : top;
+}
+
+.list TH {
+  font-size         : 9pt;
+  background        : #aaeeaa;
+  border            : 1px solid #666666;
+  padding           : 4px;
+}
+
+.list TD {
+  font-size         : 9pt;
+  border            : 1px solid #666666;
+  padding           : 4px;
+  vertical-align    : top;
+}
+
+.pagenavi {
+  text-align	    : right;
+}
+
+.formtable {
+  width		:800px;		
+  margin-left       : 10px;
+}
+
+.formtable TH {
+  width	:	100px;
+  font-size         : 11pt;
+  background        : #ffffdd;
+  border            : 1px solid #666666;
+  padding           : 3px;
+}
+
+.formtable TD {
+  font-size         : 11pt;
+  border            : 1px solid #666666;
+  padding           : 3px;
+}
+
+.largefont {
+  font-size         : 18pt;
+  font-weight       : bold;
+}
+
+.empfont {
+  font-size         : 9pt;
+  font-weight       : normal;
+  color				: #FF0000;
+}
+.remarkfont {
+  font-size         : 9pt;
+  font-weight       : normal;
+  color				: #4444ff;
+}
+.smallfont {
+  font-size         : 8pt;
+  font-weight       : normal;
+}
+.nocheck {
+  font-size         : 11pt;
+  color				: #DCDCDC;
+}
+-->
+</STYLE>
